@@ -1,9 +1,5 @@
-Change in file!
-
 This is Sample File 1 
 
-
-Macroeconomics is a branch of economics that studies how an overall economy—the market or other systems that operate on a large scale—behaves. ... Macroeconomics attempts to measure how well an economy is performing, to understand what forces drive it, and to project how performance can improve
-
+Modification in File 1
 This is Comparison lecture
 

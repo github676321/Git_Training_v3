@@ -7,3 +7,4 @@ Microeconomics is a branch of economics that studies the behavior of individuals
 Modification in File 1
 This is Comparison lecture
 
+This is Stash Lecture,Change in file 1
